@@ -1,7 +1,7 @@
 {
     "name": "vektor-inc/custom-field-builder",
     "description": "Custom Field Builder",
-    "license": "GPL 2.0 or Lator",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Vektor,Inc",
